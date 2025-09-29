@@ -2,7 +2,7 @@ package serie0;
 
 import java.util.Scanner;
 
-public class ProjetDevin {
+public class Devin {
     public static void main(String[] args) {
         // Définition des bornes
         int Min = 0;
